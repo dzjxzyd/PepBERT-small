@@ -2,7 +2,7 @@ All pretrained models in this repository have been uploaded to Hugging Face for 
 
 You can access the models at the following links:
 
-	•	[PepBERT-small-UniParc](https://huggingface.co/dzjxzyd/PepBERT-small-UniParc)
+[PepBERT-small-UniParc](https://huggingface.co/dzjxzyd/PepBERT-small-UniParc)
  
  	•	[PepBERT-small-UniRef100](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef100)
   
