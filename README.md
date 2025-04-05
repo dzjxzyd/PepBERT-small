@@ -3,12 +3,12 @@ All pretrained models in this repository have been uploaded to Hugging Face for 
 You can access the models at the following links:
 
 [PepBERT-small-UniParc](https://huggingface.co/dzjxzyd/PepBERT-small-UniParc)
- 
- 	•	[PepBERT-small-UniRef100](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef100)
+
+[PepBERT-small-UniRef100](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef100)
   
-  	•	[PepBERT-small-UniRef90](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef90)
+[PepBERT-small-UniRef90](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef90)
    
-   	•	[PepBERT-small-UniRef50](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef50)
+[PepBERT-small-UniRef50](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef50)
 
 ### A example tutorial for usage in your custom peptide embeddings.
 
