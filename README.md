@@ -1,4 +1,17 @@
-To utilize the pretrained model here, please refer to the bewlo codes for your custom sequences
+All pretrained models in this repository have been uploaded to Hugging Face for easy access. Usage tutorials are provided in the respective README.md files on each model’s Hugging Face page.
+
+You can access the models at the following links:
+
+	•	[PepBERT-small-UniParc](https://huggingface.co/dzjxzyd/PepBERT-small-UniParc)
+ 
+ 	•	[PepBERT-small-UniRef100](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef100)
+  
+  	•	[PepBERT-small-UniRef90](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef90)
+   
+   	•	[PepBERT-small-UniRef50](https://huggingface.co/dzjxzyd/PepBERT-small-UniRef50)
+
+### A example tutorial for usage in your custom peptide embeddings.
+
 ```
 import torch
 from tokenizers import Tokenizer
